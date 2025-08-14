@@ -15,4 +15,4 @@
 ---
 
 📫 **Conecte-se comigo**  
-[LinkedIn](https://www.linkedin.com/in/fabiosantosu/) | [E-mail](fabiosantov@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fabiosantosu/) | [E-mail](mailto:fabiosantov@gmail.com)
