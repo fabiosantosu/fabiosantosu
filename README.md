@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Fábio Santos
 
-<!--
-**fabiosantosu/fabiosantosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.  
+💻 Apaixonado por desenvolvimento web, automações e soluções digitais.  
+🚀 Em constante aprendizado para me tornar um desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- **Linguagens:** JavaScript, Python
+- **Front-end:** React, HTML5, CSS3
+- **Controle de versão:** Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+- [Calculadora de Orçamento Pessoal](https://github.com/fabiosantosu/calculadora-orcamento) – App web em React para controle de despesas e resumo mensal.
+
+---
+
+📫 **Conecte-se comigo**  
+[LinkedIn](https://www.linkedin.com/in/fabiosantosu/) | [E-mail](fabiosantov@gmail.com)
