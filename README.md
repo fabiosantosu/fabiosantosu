@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Fábio Santos
+# 👋 Olá! Eu sou o Fabio Santos
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.  
 💻 Apaixonado por desenvolvimento web, automações e soluções digitais.  
