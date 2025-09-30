@@ -9,9 +9,6 @@
 - **Front-end:** React, HTML5, CSS3
 - **Controle de versão:** Git/GitHub
 
-##  Projetos em Destaque
-- [Calculadora de Orçamento Pessoal](https://github.com/fabiosantosu/calculadora-orcamento) – App web em React para controle de despesas e resumo mensal.
-
 ---
 
 📫 **Conecte-se comigo**  
