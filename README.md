@@ -5,8 +5,10 @@
 🚀 Em constante aprendizado para me tornar um desenvolvedor Full Stack.
 
 ## 🛠 Tecnologias
-- **Linguagens:** JavaScript, Python
-- **Front-end:** React, HTML5, CSS3
+
+- **Linguagens:** C, SQL, JavaScript
+- **Front-end:** HTML5, CSS3
+- **Banco de Dados:** MySQL, Modelagem de Dados (DER/MER)
 - **Controle de versão:** Git/GitHub
 
 ---
