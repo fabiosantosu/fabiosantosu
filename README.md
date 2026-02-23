@@ -10,7 +10,7 @@
 
 ### 📊 Projetos em Destaque
 * **[Sistema de Pizzaria (SQL)](https://github.com/fabiosantosu/projeto-pizzaria-sql):** Modelagem completa de banco de dados relacional em 3ª Forma Normal, com foco em integridade e performance.
-* **[Plataforma ONG]([LINK_DO_REPOSITORIO](https://github.com/fabiosantosu/plataforma-ong-frontend):** Desenvolvimento web focado em acessibilidade (WCAG) e responsividade.
+* **[Plataforma ONG](https://github.com/fabiosantosu/plataforma-ong-frontend):** Desenvolvimento web focado em acessibilidade (WCAG) e responsividade.
 
 ---
 
