@@ -7,10 +7,12 @@
 * **Banco de Dados:** SQL (MySQL), Modelagem Relacional e Normalização (3FN).
 * **Linguagens:** C, SQL e JavaScript.
 * **Front-end:** HTML5 e CSS3 com foco em Acessibilidade.
+* **Inteligência Artificial:** Engenharia de Prompt, LLMs e Automação de Workflows.
 
 ### 📊 Projetos em Destaque
 * **[Sistema de Pizzaria (SQL)](https://github.com/fabiosantosu/projeto-pizzaria-sql):** Modelagem completa de banco de dados relacional em 3ª Forma Normal, com foco em integridade e performance.
 * **[Plataforma ONG](https://github.com/fabiosantosu/plataforma-ong-frontend):** Desenvolvimento web focado em acessibilidade (WCAG) e responsividade.
+* **[Automação com IA (EthosTech)](https://github.com/fabiosantosu/automacao-ia-etica):** Projeto prático de engenharia de prompt estruturado para qualificação de leads e recrutamento ético.
 
 ---
 
